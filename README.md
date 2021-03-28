@@ -1,18 +1,10 @@
-# KIENG-FigureBed
-image.kieng.cn 的仿站源码
+原作者仓库：https://github.com/Momo707577045/m3u8-downloader
 
-帮助文档：https://www.blueskyxn.com/202102/4030.html
+详细介绍请前往原作者仓库
 
-演示文档：https://www.blueskyxn.com/202103/4317.html
+测试链接
+https://sf1-hscdn-tos.pstatp.com/obj/media-fe/xgplayer_doc_video/hls/xgplayer-demo.m3u8
 
-演示站：
+演示站与介绍请前往右上角博客相关文档
 
-服务器部署：https://img.blueskyxn.com/jd.html
-
-CFPAGES无服务器部署:https://imgup.pages.dev/
-
-Netlify无服务器部署：https://compassionate-borg-e90d30.netlify.app/
-
-Vercel无服务器部署：https://imgup.vercel.app/
-
-现已支持Vercel等无服务器部署该图床【毕竟是纯HTML调用远程API】
+https://www.blueskyxn.com/202102/4126.html
